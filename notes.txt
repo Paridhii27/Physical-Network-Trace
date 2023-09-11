@@ -1,0 +1,155 @@
+Name: Paridhi Garg
+Destination domain : Spotify.in
+Use : Listening to music, creating playlists, finding lyrics
+
+1. 24.90.24.1
+    Region: New York 
+    City: Woodside
+    Latitude: 40.74526
+    Longitude: -73.9048
+    Zipcode: 11377
+    Domain: spectrum.com
+
+2. 68.173.201.136
+    Region: New York 
+    City: Woodside
+    Latitude: 40.74526
+    Longitude: -73.9048
+    Zipcode: 11377
+    Domain: spectrum.com
+
+3. 68.173.198.120
+    Region: New York 
+    City: New York City
+    Latitude: 40.713192
+    Longitude: -74.006065
+    Zipcode: 10116
+    Domain: spectrum.com
+
+4. 66.109.6.78
+    Region: New York 
+    City: New York City
+    Latitude: 40.713192
+    Longitude: -74.006065
+    Zipcode: 10116
+    Domain: spectrum.com
+
+5. 66.109.6.27
+    Region: Illinois 
+    City: Naperville
+    Latitude: 41.770999
+    Longitude: -88.153042
+    Zipcode: 60540
+    District: DuPage county
+
+    The people living in ZIP code 60540 are primarily white. The number of middle aged adults is extremely large 
+    while the number of people in their late 20s to early 40s is extremely large. There are also a large number of 
+    families and a small number of single parents. The percentage of children under 18 living in the 60540 ZIP code is 
+    slightly higher than average compared to other areas of the country. (https://www.unitedstateszipcodes.org/60540/)
+
+7. 66.109.5.119
+    Region: California 
+    City: El Segundo
+    Latitude: 33.919201
+    Longitude: -118.416584
+    Zipcode: 90245
+    District: Los Angeles county
+
+8. 66.109.9.5
+    Region: Illinois 
+    City: Naperville
+    Latitude: 41.770999
+    Longitude: -88.153042
+    Zipcode: 60540
+    District: DuPage county
+
+9. 62.115.156.214
+    Region: Brussels Hoofdstedelijk Gewest
+    City: Brussels
+    Latitude: 50.850406
+    Longitude:  4.348789
+    Zipcode: 1210
+    District: Bruxelles-Capitale
+    Domain: arelion.com
+
+10. 62.115.135.132
+    Region: New York 
+    City: New York City
+    Latitude: 40.713192
+    Longitude: -74.006065
+    Zipcode: 10116
+    Domain: arelion.com
+
+11. 62.115.138.113
+    Region: Hovedstaden
+    City: Copenhagen
+    Country: Denmark
+    Latitude: 55.67594
+    Longitude: 12.56553
+    Zipcode: 2450
+    District: Copenhagen municipality
+    Domain: arelion.com
+
+12. 62.115.171.213
+    Region: Brussels Hoofdstedelijk Gewest
+    City: Brussels
+    Latitude: 50.850406
+    Longitude:  4.348789
+    Zipcode: 1210
+    District: Bruxelles-Capitale
+
+13. 91.129.14.69
+    Region: Bern
+    City: Bern
+    Country: Switzerland
+    Latitude: 46.948089
+    Longitude:  7.447452
+    Zipcode: 3000
+    District: Bern-Mittelland
+    Domain: tele2.com
+
+14. 91.129.12.44
+    Region: Vastra Gotalands lan
+    City: Goeteborg
+    Country: Sweden
+    Latitude: 57.707409
+    Longitude: 11.966732
+    Zipcode: 41879
+    District: Gothenburg Municipality 
+    Domain: tele2.com
+
+15. 91.129.12.231
+    Region: Vastra Gotalands lan
+    City: Goeteborg
+    Country: Sweden
+    Latitude: 57.707409
+    Longitude: 11.966732
+    Zipcode: 41879
+    District: Gothenburg Municipality 
+    Domain: tele2.com
+
+16. 91.129.18.13
+    Region: Stockholms Ian
+    City: Stockholm
+    Country: Sweden
+    Latitude: 59.332748
+    Longitude: 18.064841
+    Zipcode: 19587
+    District: Stockholm Municipality
+    Domain: tele2.com
+
+    Stockholm County is a county on the Baltic Sea coast of Sweden.Stockholm County is divided by the historic provinces of Uppland and Södermanland. 
+    The landscape in Stockholms Län is characterised by a constant alternation between low wooded hills and valleys with lakes, moors and loamy soils.
+    Stockholm is crafting policies and using planning to create a more sustainable society. The planning system in Sweden is termed “community planning”, 
+    which is a system that focuses on enhancing or altering the production and consumption of society that is normally left up to the market to determine.
+
+
+17. 91.129.18.25
+    Region: Stockholms Ian
+    City: Stockholm
+    Country: Sweden
+    Latitude: 59.332748
+    Longitude: 18.064841
+    Zipcode: 19587
+    District: Stockholm Municipality
+    Domain: tele2.com
