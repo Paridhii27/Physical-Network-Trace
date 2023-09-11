@@ -10,6 +10,14 @@ Use : Listening to music, creating playlists, finding lyrics
     Zipcode: 11377
     Domain: spectrum.com
 
+    For two centuries following the arrival of settlers from England and the Netherlands, 
+    the area where the village of Woodside would be established was sparsely populated. 
+    The land was fertile, but also wet. Its Native American inhabitants called it a place of 
+    "bad waters" and it was known to early European settlers as a place of "marshes, muddy flats and bogs," 
+    where "wooded swamps" and "flaggy pools" were fed by flowing springs."[10][11] Until drained in the 
+    nineteenth century, one of these wet woodlands was called Wolf Swamp after the predators that infested it. 
+    (https://en.wikipedia.org/wiki/Woodside,_Queens#:~:text=Woodside%20is%20located%20in%20Queens,Police%20Department's%20108th%20Precinct.)
+
 2. 68.173.201.136
     Region: New York 
     City: Woodside
@@ -25,6 +33,13 @@ Use : Listening to music, creating playlists, finding lyrics
     Longitude: -74.006065
     Zipcode: 10116
     Domain: spectrum.com
+
+    This location coordinate points to the city hall in New York City. The city hall has been 
+    the seat of New York City’s government since 1812. Located in City Hall Park at the southern
+     end of the Civic Center, City Hall is one of the most treasured buildings in the City. 
+     The architectural style of City Hall is a combination of two famous historical movements. 
+     The exterior facade reflects that of the French Renaissance, and the interior that of the American-Georgian style. 
+     (https://www.nyc.gov/site/dcas/business/dcasmanagedbuildings/city-hall.page)
 
 4. 66.109.6.78
     Region: New York 
@@ -55,6 +70,9 @@ Use : Listening to music, creating playlists, finding lyrics
     Zipcode: 90245
     District: Los Angeles county
 
+    The name “El Segundo” in spanish translates to “the second” in English. The stretch of coast comprising 
+    El Segundo beach is located in front of an oil refinery. 
+
 8. 66.109.9.5
     Region: Illinois 
     City: Naperville
@@ -71,6 +89,11 @@ Use : Listening to music, creating playlists, finding lyrics
     Zipcode: 1210
     District: Bruxelles-Capitale
     Domain: arelion.com
+
+    Everyone knows about Belgian chocolate and probably the famous gueuze lambic beer, 
+    but there are many more lesser known regional specialities that are well worth trying. 
+    Museum of Cacao and Chocolate close to Grand-Place is a good place to go to. There are over a hundred museums in Brussels.
+    (https://be.brussels/culture-tourism-leisure/brussels-folklore/gastronomy)
 
 10. 62.115.135.132
     Region: New York 
@@ -90,6 +113,10 @@ Use : Listening to music, creating playlists, finding lyrics
     District: Copenhagen municipality
     Domain: arelion.com
 
+    Copenhagen is considered one of the happiest places in the world. It is also one of 
+    the most eco friendly region. Cycling is huge in Copenhagen which makes the city really energy efficient.
+    Some other sustainable initiatives include green roofs and rain management systems.
+
 12. 62.115.171.213
     Region: Brussels Hoofdstedelijk Gewest
     City: Brussels
@@ -107,6 +134,11 @@ Use : Listening to music, creating playlists, finding lyrics
     Zipcode: 3000
     District: Bern-Mittelland
     Domain: tele2.com
+
+    Bern lies on the Swiss plateau in the canton of Bern, slightly west of the centre 
+    of Switzerland and 20 km (12 mi) north of the Bernese Alps. The countryside around Bern was formed 
+    by glaciers during the most recent ice age. The two mountains closest to Bern are Gurten with a 
+    height of 864 m (2,835 ft) and Bantiger with a height of 947 m (3,107 ft). (https://en.wikipedia.org/wiki/Bern)
 
 14. 91.129.12.44
     Region: Vastra Gotalands lan
@@ -127,6 +159,11 @@ Use : Listening to music, creating playlists, finding lyrics
     Zipcode: 41879
     District: Gothenburg Municipality 
     Domain: tele2.com
+
+    Västra Götaland, län (county), southwestern Sweden. It was created in 1998 by the amalgamation 
+    of the counties of Älvsborg, Göteborg och Bohus, and Skaraborg. The capital is Gothenburg, Sweden’s 
+    major port and second largest city.
+
 
 16. 91.129.18.13
     Region: Stockholms Ian
