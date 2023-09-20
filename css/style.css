@@ -17,8 +17,8 @@ h1 {
 a {
   color: #bce3dc;
   margin-left: 10vw;
+  padding-left: 2%;
   font-size: 35px;
-  padding: 1%;
   display: block;
 }
 
@@ -26,3 +26,11 @@ iframe {
   border-radius: 12px;
   margin-left: 20%;
 }
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 50%;
+  }
