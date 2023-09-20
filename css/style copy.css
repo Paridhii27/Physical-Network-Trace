@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "script font";
+  src: url("/font.ttf") format("truetype");
+}
+
+* {
+  font-family: "script font", serif;
+  background-color: black;
+}
+
+h1 {
+  color: aliceblue;
+  margin-left: 10vw;
+  margin-top: 5vh;
+  font-size: 55px;
+}
+a {
+  color: #bce3dc;
+  margin-left: 10vw;
+  padding-left: 2%;
+  font-size: 35px;
+  display: block;
+}
+
+p{
+    color: white;
+    font-size: 40px;
+}
+
+iframe {
+  border-radius: 12px;
+  margin-left: 20%;
+}
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 50%;
+  }
