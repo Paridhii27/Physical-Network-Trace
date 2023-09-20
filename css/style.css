@@ -22,6 +22,11 @@ a {
   display: block;
 }
 
+p{
+    color: white;
+    font-size: 40px;
+}
+
 iframe {
   border-radius: 12px;
   margin-left: 20%;
